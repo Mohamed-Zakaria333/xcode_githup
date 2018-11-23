@@ -12,6 +12,9 @@
 		04F5CCD121A88EA80089C6A2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04F5CCCF21A88EA80089C6A2 /* Main.storyboard */; };
 		04F5CCD321A88EA80089C6A2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04F5CCD221A88EA80089C6A2 /* Assets.xcassets */; };
 		04F5CCD621A88EA80089C6A2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04F5CCD421A88EA80089C6A2 /* LaunchScreen.storyboard */; };
+		04F5CCDE21A893240089C6A2 /* view1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04F5CCDD21A893240089C6A2 /* view1.swift */; };
+		04F5CCE021A8932D0089C6A2 /* view2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04F5CCDF21A8932D0089C6A2 /* view2.swift */; };
+		04F5CCE221A8932F0089C6A2 /* view3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04F5CCE121A8932F0089C6A2 /* view3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		04F5CCD221A88EA80089C6A2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04F5CCD521A88EA80089C6A2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04F5CCD721A88EA80089C6A2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04F5CCDD21A893240089C6A2 /* view1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = view1.swift; sourceTree = "<group>"; };
+		04F5CCDF21A8932D0089C6A2 /* view2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = view2.swift; sourceTree = "<group>"; };
+		04F5CCE121A8932F0089C6A2 /* view3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = view3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +63,9 @@
 				04F5CCCB21A88EA80089C6A2 /* AppDelegate.swift */,
 				04F5CCCD21A88EA80089C6A2 /* ViewController.swift */,
 				04F5CCCF21A88EA80089C6A2 /* Main.storyboard */,
+				04F5CCDD21A893240089C6A2 /* view1.swift */,
+				04F5CCDF21A8932D0089C6A2 /* view2.swift */,
+				04F5CCE121A8932F0089C6A2 /* view3.swift */,
 				04F5CCD221A88EA80089C6A2 /* Assets.xcassets */,
 				04F5CCD421A88EA80089C6A2 /* LaunchScreen.storyboard */,
 				04F5CCD721A88EA80089C6A2 /* Info.plist */,
@@ -138,6 +147,9 @@
 			files = (
 				04F5CCCE21A88EA80089C6A2 /* ViewController.swift in Sources */,
 				04F5CCCC21A88EA80089C6A2 /* AppDelegate.swift in Sources */,
+				04F5CCE221A8932F0089C6A2 /* view3.swift in Sources */,
+				04F5CCE021A8932D0089C6A2 /* view2.swift in Sources */,
+				04F5CCDE21A893240089C6A2 /* view1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
