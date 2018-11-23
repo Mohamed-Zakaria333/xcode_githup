@@ -12,6 +12,7 @@ class view2: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        //i edit this file from githup
 
         // Do any additional setup after loading the view.
     }
